@@ -1,0 +1,4 @@
+1-2000 2-1960  3-1975
+1-IOS11.2 2-Android7.0  3-windows 7  
+1-english 2-french 3-Chinese 
+1-SSD 2-InternalHD 3-ExternalHDD  
